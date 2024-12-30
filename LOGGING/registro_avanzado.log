@@ -1,0 +1,2 @@
+2024-12-30 01:52:29,967 - mi_logger_avanzado - ERROR - Mensaje ERROR: Se verá en consola y archivo.
+2024-12-30 01:52:29,970 - mi_logger_avanzado - CRITICAL - Mensaje CRITICAL: Se verá en consola y archivo.
