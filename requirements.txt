@@ -1,0 +1,7 @@
+numpy
+pandas
+matplotlib
+pyodbc
+pytest
+requests
+logging
